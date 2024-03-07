@@ -1,4 +1,4 @@
-module github.com/yantrio/terraform-provider-utils
+module github.com/yantrio/terraform-provider-tfutils
 
 go 1.21
 
