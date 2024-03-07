@@ -4,7 +4,7 @@
 
 - [OpenTofu](https://opentofu.org) >= 1.x (Currently unknown)
 - OR
-- [Terraform](https://developer.hashicorp.com/terraform/downloads) >= 1.18
+- [Terraform](https://developer.hashicorp.com/terraform/downloads) >= 1.8
 - [Go](https://golang.org/doc/install) >= 1.21
 
 ## Building The Provider
