@@ -67,6 +67,7 @@ func (p *TFUtilsProvider) DataSources(ctx context.Context) []func() datasource.D
 
 func (p *TFUtilsProvider) Functions(ctx context.Context) []func() function.Function {
 	return []func() function.Function{
+		NewCIDRContainsFunction,
 		NewURLDecodeFunction,
 	}
 }
